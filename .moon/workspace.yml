@@ -1,0 +1,9 @@
+projects:
+  globs:
+  - ./packages/test
+  # sources:
+  #   test: ./packages/test
+
+vcs:
+  defaultBranch: 'main'
+  provider: 'github'
