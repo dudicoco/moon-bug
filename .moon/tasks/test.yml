@@ -1,6 +1,3 @@
-# https://moonrepo.dev/docs/config/project
-$schema: 'https://moonrepo.dev/schemas/project.json'
-
 tasks:
   test:
     command: echo

@@ -1,8 +1,7 @@
 projects:
-  globs:
-  - ./packages/test
-  # sources:
-  #   test: ./packages/test
+  sources:
+    root: '.'
+    test: ./packages/test
 
 vcs:
   defaultBranch: 'main'
